@@ -309,9 +309,9 @@
                     var typed = new Typed("#subtitle", {
                         strings: [ 
                             
-                                "从来没有真正的绝境, 只有心灵的迷途",
+                                "世界上只有一种英雄主义，就是当你认清生活的真相后，依然热爱生活。",
                             
-                                "Never really desperate, only the lost of the soul",
+                                "There is only one true heroism in the world:to see the world as it is, and to love it.",
                             
                         ],
                         startDelay: 300,
@@ -495,8 +495,8 @@
     <div class="row">
         <meting-js class="col l8 offset-l2 m10 offset-m1 s12"
                    server="netease"
-                   type="playlist"
-                   id="1519093567"
+                   type="song"
+                   id="459944978"
                    fixed='false'
                    autoplay='false'
                    theme=''
@@ -512,6 +512,7 @@
 
 <script src="/libs/aplayer/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
 
                         
 
@@ -540,6 +541,43 @@
              <!-- 隐藏某个文章 -->
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
+                    <a href="/2021/07/15/Math-Triangle/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="Math-Triangle">
+                            
+                            <span class="card-title">Math-Triangle</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-07-15
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fas fa-user fa-fw"></i>
+                                ZaphkielYan
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                </div>
+            </div>
+              <!-- 隐藏某个文章 -->
+            
+             <!-- 隐藏某个文章 -->
+            <div class="article col s12 m6 l4" data-aos="zoom-in">
+                <div class="card">
                     <a href="/2021/07/10/Terraria-Mobile-Server/">
                         <div class="card-image">
                             
@@ -553,7 +591,10 @@
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                用自己手头的PC轻松搭建Terraria Mobile Server准备工具：-Windows(windows7以上)-Microsoft XNA-Terraria mobile服务端开始教程首先我们需要PC中安装有Microsoft XN
+                                
+    
+
+用自己手头的PC轻松搭建Terraria Mobile Server准备工具：-Windows(windows7以上)-Microsoft XNA-Terraria mobile服务端开始教程首先我们需要PC中安装有Micro
                             
                         </div>
                         <div class="publish-info">
@@ -576,8 +617,16 @@
                     
                     <div class="card-action article-tags">
                         
-                        <a href="/tags/%E6%B8%B8%E6%88%8F-Terraria-%E6%95%99%E7%A8%8B/">
-                            <span class="chip bg-color">-游戏 -Terraria -教程</span>
+                        <a href="/tags/%E6%B8%B8%E6%88%8F/">
+                            <span class="chip bg-color">游戏</span>
+                        </a>
+                        
+                        <a href="/tags/Terraria/">
+                            <span class="chip bg-color">Terraria</span>
+                        </a>
+                        
+                        <a href="/tags/%E6%95%99%E7%A8%8B/">
+                            <span class="chip bg-color">教程</span>
                         </a>
                         
                     </div>
@@ -601,6 +650,8 @@
 
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
+                            
+                                
                             
                         </div>
                         <div class="publish-info">
@@ -637,9 +688,9 @@
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             
-                <span id="year">2019-2021</span>
+                <span id="year">2021</span>
             
-            <span id="year">2019</span>
+            <span id="year">2021</span>
             <a href="/about" target="_blank">ZaphkielYan</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
@@ -852,6 +903,22 @@ $(function () {
 
     
 
+    <!-- 深色模式按钮 -->
+    <script>
+        if (localStorage.getItem('dark') === '1') {
+        document.body.classList.add('dark');
+        }
+        else if (new Date().getHours() >= 22 || new Date().getHours() < 7) {
+        document.body.classList.add('dark');
+        } 
+        else if (matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+        }
+    </script>
+    <a onclick="switchNightMode()" id="sma">
+        <i class="fas fa-lightbulb" id="nightMode" aria-hidden="true"></i>
+    </a>
+    
     
 
     <!--腾讯兔小巢-->

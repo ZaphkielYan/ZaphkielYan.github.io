@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>Math-Triangle</title>
+      <link href="/2021/07/15/Math-Triangle/"/>
+      <url>/2021/07/15/Math-Triangle/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Terraria-Mobile_Server</title>
       <link href="/2021/07/10/Terraria-Mobile-Server/"/>
       <url>/2021/07/10/Terraria-Mobile-Server/</url>
       
-        <content type="html"><![CDATA[<h2 id="用自己手头的PC轻松搭建Terraria-Mobile-Server"><a href="#用自己手头的PC轻松搭建Terraria-Mobile-Server" class="headerlink" title="用自己手头的PC轻松搭建Terraria Mobile Server"></a>用自己手头的PC轻松搭建Terraria Mobile Server</h2><h4 id="准备工具："><a href="#准备工具：" class="headerlink" title="准备工具："></a>准备工具：</h4><h5 id="Windows-windows7以上"><a href="#Windows-windows7以上" class="headerlink" title="-Windows(windows7以上)"></a>-Windows(windows7以上)</h5><h5 id="Microsoft-XNA"><a href="#Microsoft-XNA" class="headerlink" title="-Microsoft XNA"></a>-Microsoft XNA</h5><h5 id="Terraria-mobile服务端"><a href="#Terraria-mobile服务端" class="headerlink" title="-Terraria mobile服务端"></a>-Terraria mobile服务端</h5><h4 id="开始教程"><a href="#开始教程" class="headerlink" title="开始教程"></a>开始教程</h4><h6 id="首先我们需要PC中安装有Microsoft-XNA，可以从官网：https-www-microsoft-com-en-us-download-details-aspx-id-20914-下载并安装"><a href="#首先我们需要PC中安装有Microsoft-XNA，可以从官网：https-www-microsoft-com-en-us-download-details-aspx-id-20914-下载并安装" class="headerlink" title="首先我们需要PC中安装有Microsoft XNA，可以从官网：https://www.microsoft.com/en-us/download/details.aspx?id=20914  下载并安装"></a>首先我们需要PC中安装有Microsoft XNA，可以从官网：<a href="https://www.microsoft.com/en-us/download/details.aspx?id=20914">https://www.microsoft.com/en-us/download/details.aspx?id=20914</a>  下载并安装</h6><p><img src="https://pic.imgdb.cn/item/60e98da35132923bf8ab19e3.jpg"></p><h6 id="安装完成后，我们从Terraria官网下载服务端，官网下载链接：Terraria"><a href="#安装完成后，我们从Terraria官网下载服务端，官网下载链接：Terraria" class="headerlink" title="安装完成后，我们从Terraria官网下载服务端，官网下载链接：Terraria"></a>安装完成后，我们从Terraria官网下载<strong>服务端</strong>，官网下载链接：<a href="https://terraria.org/">Terraria</a></h6><p><img src="https://pic.imgdb.cn/item/60e98d575132923bf8a91c60.png"></p><h6 id="下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行start-server-bat"><a href="#下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行start-server-bat" class="headerlink" title="下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行start-server.bat"></a>下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行<strong>start-server.bat</strong></h6><h5 id="之后按照提示操作即可"><a href="#之后按照提示操作即可" class="headerlink" title="之后按照提示操作即可"></a>之后按照提示操作即可</h5>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>    <div id="aplayer-YpQlViLs" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1519093567" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><h2 id="用自己手头的PC轻松搭建Terraria-Mobile-Server"><a href="#用自己手头的PC轻松搭建Terraria-Mobile-Server" class="headerlink" title="用自己手头的PC轻松搭建Terraria Mobile Server"></a>用自己手头的PC轻松搭建Terraria Mobile Server</h2><h4 id="准备工具："><a href="#准备工具：" class="headerlink" title="准备工具："></a>准备工具：</h4><h5 id="Windows-windows7以上"><a href="#Windows-windows7以上" class="headerlink" title="-Windows(windows7以上)"></a>-Windows(windows7以上)</h5><h5 id="Microsoft-XNA"><a href="#Microsoft-XNA" class="headerlink" title="-Microsoft XNA"></a>-Microsoft XNA</h5><h5 id="Terraria-mobile服务端"><a href="#Terraria-mobile服务端" class="headerlink" title="-Terraria mobile服务端"></a>-Terraria mobile服务端</h5><h4 id="开始教程"><a href="#开始教程" class="headerlink" title="开始教程"></a>开始教程</h4><h6 id="首先我们需要PC中安装有Microsoft-XNA，可以从官网：https-www-microsoft-com-en-us-download-details-aspx-id-20914-下载并安装"><a href="#首先我们需要PC中安装有Microsoft-XNA，可以从官网：https-www-microsoft-com-en-us-download-details-aspx-id-20914-下载并安装" class="headerlink" title="首先我们需要PC中安装有Microsoft XNA，可以从官网：https://www.microsoft.com/en-us/download/details.aspx?id=20914  下载并安装"></a>首先我们需要PC中安装有Microsoft XNA，可以从官网：<a href="https://www.microsoft.com/en-us/download/details.aspx?id=20914">https://www.microsoft.com/en-us/download/details.aspx?id=20914</a>  下载并安装</h6><p><img src="https://pic.imgdb.cn/item/60e98da35132923bf8ab19e3.jpg"></p><h6 id="安装完成后，我们从Terraria官网下载服务端，官网下载链接：Terraria"><a href="#安装完成后，我们从Terraria官网下载服务端，官网下载链接：Terraria" class="headerlink" title="安装完成后，我们从Terraria官网下载服务端，官网下载链接：Terraria"></a>安装完成后，我们从Terraria官网下载<strong>服务端</strong>，官网下载链接：<a href="https://terraria.org/">Terraria</a></h6><p><img src="https://pic.imgdb.cn/item/60e98d575132923bf8a91c60.png"></p><h6 id="下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行start-server-bat"><a href="#下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行start-server-bat" class="headerlink" title="下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行start-server.bat"></a>下载完后解压，你会看到三个压缩包：按照你的PC系统（这里使用Windows），解压后运行<strong>start-server.bat</strong></h6><h5 id="之后按照提示操作即可"><a href="#之后按照提示操作即可" class="headerlink" title="之后按照提示操作即可"></a>之后按照提示操作即可</h5>]]></content>
       
       
       <categories>
@@ -20,7 +33,11 @@
       
         <tags>
             
-            <tag> -游戏 -Terraria -教程 </tag>
+            <tag> 游戏 </tag>
+            
+            <tag> Terraria </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -33,7 +50,7 @@
       <link href="/2021/07/10/a-example/"/>
       <url>/2021/07/10/a-example/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
       
       
       
